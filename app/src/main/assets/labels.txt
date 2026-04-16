@@ -1,0 +1,7 @@
+crosswalk
+giveway
+mainroad
+null
+speedlimit
+warning
+warning\

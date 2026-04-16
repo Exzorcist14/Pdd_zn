@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "dps-znak-placeholder",
+    "storage_bucket": "dps-znak-placeholder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "android_client_info": {
+          "package_name": "com.example.dps_zn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "placeholder-replace-with-firebase-console-export"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
